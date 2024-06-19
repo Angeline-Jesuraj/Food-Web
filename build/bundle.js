@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("h2");e.innerHTML="This is added via check js code",document.body.append(e)})();
